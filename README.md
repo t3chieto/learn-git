@@ -7,5 +7,5 @@ console.log("hello world")
 ```
 
 ```python
-
+console.log("hello world")
 ```
